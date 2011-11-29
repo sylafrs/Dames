@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1296043093 source:c:\documents and settings\admin\bureau\projets termines\dames\indicateurs.c
+	"indicateurs.h"
+	<stdio.h>
+
+1296040902 c:\documents and settings\admin\bureau\projets termines\dames\indicateurs.h
+	"header.h"
+
+1295719287 c:\documents and settings\admin\bureau\projets termines\dames\header.h
+	<stdlib.h>
+	"Configs/configC.h"
+
+1295720533 c:\documents and settings\admin\bureau\projets termines\dames\configs\configc.h
+
+1296053551 source:c:\documents and settings\admin\bureau\projets termines\dames\modificateurs.c
+	"modificateurs.h"
+	<stdio.h>
+
+1295719084 c:\documents and settings\admin\bureau\projets termines\dames\modificateurs.h
+	"header.h"
+
+1296052954 source:c:\documents and settings\admin\bureau\projets termines\dames\affichage.c
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"affichage.h"
+	"indicateurs.h"
+
+1295719991 c:\documents and settings\admin\bureau\projets termines\dames\affichage.h
+	"header.h"
+
+1296038311 source:c:\documents and settings\admin\bureau\projets termines\dames\main.c
+	<SDL/SDL.h>
+	<SDL/SDL_TTF.h>
+	<stdlib.h>
+	"header.h"
+	"affichage.h"
+	"indicateurs.h"
+	"modificateurs.h"
+
+1296043093 source:c:\documents and settings\admin\bureau\dames\indicateurs.c
+	"indicateurs.h"
+	<stdio.h>
+
+1296040902 c:\documents and settings\admin\bureau\dames\indicateurs.h
+	"header.h"
+
+1295719287 c:\documents and settings\admin\bureau\dames\header.h
+	<stdlib.h>
+	"Configs/configC.h"
+
+1295720533 c:\documents and settings\admin\bureau\dames\configs\configc.h
+
+1297282552 source:c:\documents and settings\admin\bureau\dames\main.c
+	"SDL_include/SDL.h"
+	"SDL_include/SDL_ttf.h"
+	<stdlib.h>
+	"header.h"
+	"affichage.h"
+	"indicateurs.h"
+	"modificateurs.h"
+
+1295719991 c:\documents and settings\admin\bureau\dames\affichage.h
+	"header.h"
+
+1295719084 c:\documents and settings\admin\bureau\dames\modificateurs.h
+	"header.h"
+
+1296053551 source:c:\documents and settings\admin\bureau\dames\modificateurs.c
+	"modificateurs.h"
+	<stdio.h>
+
+1297282513 source:c:\documents and settings\admin\bureau\dames\affichage.c
+	<stdlib.h>
+	"SDL_include/SDL.h"
+	"SDL_include/SDL_ttf.h"
+	"affichage.h"
+	"indicateurs.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255796864 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_platform.h
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\begin_code.h
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\close_code.h
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_keysym.h
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255908494 c:\documents and settings\admin\bureau\dames\sdl_include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+

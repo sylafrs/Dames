@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="affichage.c" open="1" top="1" tabpos="0">
+		<Cursor position="1143" topLine="39" />
+	</File>
+	<File name="affichage.h" open="0" top="0" tabpos="0">
+		<Cursor position="2806" topLine="1" />
+	</File>
+	<File name="header.h" open="0" top="0" tabpos="0">
+		<Cursor position="131" topLine="0" />
+	</File>
+	<File name="indicateurs.c" open="0" top="0" tabpos="3">
+		<Cursor position="12479" topLine="0" />
+	</File>
+	<File name="indicateurs.h" open="0" top="0" tabpos="0">
+		<Cursor position="960" topLine="0" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="4">
+		<Cursor position="59" topLine="0" />
+	</File>
+	<File name="modificateurs.c" open="0" top="0" tabpos="1">
+		<Cursor position="1216" topLine="0" />
+	</File>
+	<File name="modificateurs.h" open="0" top="0" tabpos="0">
+		<Cursor position="441" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
