@@ -1,4 +1,4 @@
 # Dames
 
-Un jeu de Dames codé l'année dernière (aussi)
+Un jeu de Dames codÃ© l'annÃ©e derniÃ¨re (aussi, en 2010) 
 Je voulais le faire pour aider quelqu'un
